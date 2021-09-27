@@ -1,8 +1,8 @@
 ### Hi there! 👋
 ### My name's Alexandra Hum, or just Alex.
 
-### I'm interested in learning more about video game development and creation. :video_game:
-### My hobbies are playing video games and drawing, particularly Nintendo and Playstation games!
+### I'm interested in learning more about video game development and creation. :space_invader:
+### My hobbies are playing video games :video_game: and drawing :art:, particularly Nintendo and Playstation games!
 
 <!--
 **Alex-Hum/Alex-Hum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
